@@ -1,0 +1,29 @@
+{
+  "name": "refactor-node-girls-ws",
+  "version": "1.0.0",
+  "description": "<img src=\"readme-images/logo.png\" alt=\"node-girls-logo\" styles=\"text-align:center;\" />",
+  "main": "index.js",
+  "scripts": {
+    "test": "",
+    "watch": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ali-7/refactor-node-girls-ws.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ali-7/refactor-node-girls-ws/issues"
+  },
+  "homepage": "https://github.com/ali-7/refactor-node-girls-ws#readme",
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.2.0",
+    "eslint-plugin-import": "^2.18.2",
+    "nodemon": "^1.19.1",
+    "tap-spec": "^5.0.0",
+    "tape": "^4.11.0"
+  }
+}
